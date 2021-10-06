@@ -4,3 +4,4 @@
 ##### miscellaneous_scraping
 ##### reed_multiprocessing
 ##### reed_scrapy
+##### hotuk_deals_scraping
