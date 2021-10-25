@@ -1,0 +1,1 @@
+#### Scrapes data from bigbazar using selenium by categories if category links are given as input. It requires a lot of time to complete the scraping.

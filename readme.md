@@ -6,3 +6,4 @@
 ##### reviews_scraping(reed, reviews.io and trustpilot reviews scraping)
 ##### stock_image_scraping(scrapes image info from adobestock and shutterstock)
 ##### udemy_scraping(scrapes course info and instructor(contact) info from udemy)
+#### bigbazar_scraping (scrapes data from bigbazar)
